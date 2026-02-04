@@ -30,7 +30,7 @@ bash setup.sh
 
 <!-- 必选，如何快速上手项目，可以写的具体一点 -->
 ## 🚀 Quick Start
-Below, we provide simple examples to show how to use xxx.
+Below, we provide simple examples to show how to use FBA/BBA.
 
 1. Stereotype Cue Selection (e.g., Gender)
 ```bash
