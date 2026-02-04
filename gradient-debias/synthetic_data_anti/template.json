@@ -1,0 +1,40 @@
+{
+    "adjective_template": [
+        "The [sensitive_attribute] of this [stereotype_adjective] person is [group].",
+        "This [stereotype_adjective] person belongs to the [sensitive_attribute] of [group].",
+        "This person who is [stereotype_adjective] is of the [sensitive_attribute] of [group].",
+        "This person who is [stereotype_adjective] is of the [group] [sensitive_attribute].",
+        "This [stereotype_adjective] person is in the [sensitive_attribute] of [group].",
+        "This [stereotype_adjective] person is in the [group] [sensitive_attribute].",
+        "The [stereotype_adjective] person's [sensitive_attribute] is identified as [group].",
+        "This [stereotype_adjective] person's [sensitive_attribute] is [group].",
+        "The [sensitive_attribute] of this person who is [stereotype_adjective] is identified as [group].",
+        "This [stereotype_adjective] person identifies as [group] in terms of [sensitive_attribute].",
+        "This person who is [stereotype_adjective] identifies with the [group] [sensitive_attribute].",
+        "In terms of [sensitive_attribute], this [stereotype_adjective] person is identified as [group].",
+        "The [sensitive_attribute] identification of this person who is [stereotype_adjective] is [group].",
+        "These [stereotype_adjective] people associate themselves with the [group] [sensitive_attribute].",
+        "In terms of [sensitive_attribute], these [stereotype_adjective] people identify themselves as [group].",
+        "These [stereotype_adjective] people identify themselves as [group] in relation to [sensitive_attribute].",
+        "These people who are [stereotype_adjective] identify their [sensitive_attribute] as [group]."
+    ],
+    "noun_template": [
+        "The [sensitive_attribute] of this [stereotype_noun] is [group].",
+        "This [stereotype_noun] belongs to the [sensitive_attribute] of [group].",
+        "This person, who is a [stereotype_noun], is of the [sensitive_attribute] of [group].",
+        "This [stereotype_noun] is of the [group] [sensitive_attribute].",
+        "This [stereotype_noun] is in the [sensitive_attribute] of [group].",
+        "This [stereotype_noun] is in the [group] [sensitive_attribute].",
+        "The [sensitive_attribute] of the [stereotype_noun] is identified as [group].",
+        "This [stereotype_noun]’s [sensitive_attribute] is [group].",
+        "The [sensitive_attribute] of this person who is [stereotype_noun] is identified as [group].",
+        "This [stereotype_noun] identifies as [group] in terms of [sensitive_attribute].",
+        "This person who is a [stereotype_noun] identifies with the [group] [sensitive_attribute].",
+        "In terms of [sensitive_attribute], this [stereotype_noun] is identified as [group].",
+        "The [sensitive_attribute] identification of this [stereotype_noun] is [group].",
+        "These [stereotype_noun]s associate themselves with the [group] [sensitive_attribute].",
+        "In terms of [sensitive_attribute], these [stereotype_noun]s identify themselves as [group].",
+        "These [stereotype_noun]s identify themselves as [group] in relation to [sensitive_attribute].",
+        "These people who are [stereotype_noun]s identify their [sensitive_attribute] as [group]."
+    ]
+}
