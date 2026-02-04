@@ -6,7 +6,7 @@
 <!-- <font size=4><div align='center' > [[📝 arXiv](https://arxiv.org/abs/2511.00405)] </div></font> -->
 
 <!-- 项目介绍，包含项目所属论文名称，论文的简要介绍 -->
-This repo contains the code and model for FBA/BBA:
+This repo contains the code and model for **Bi-directional Bias Attribution: Debiasing Large Language Models without Modifying Prompts (ICLR 2026)**:
 <!-- 项目方法图 -->
 ![overview](./BBA.png)
 
