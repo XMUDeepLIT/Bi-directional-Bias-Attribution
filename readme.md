@@ -15,9 +15,9 @@ This repo contains the code and model for FBA/BBA:
 [2026/02/04] 🚀 We’re thrilled to release the FBA/BBA! The paper and code are now open to the community.
 
 <!-- 可选，直观展示方法的效果 -->
-## Model Performance
+## Debiasing Performance
 <!-- 论文主要实验结果截图 -->
-![result](./BBA_result.png)
+![result](./BBA_results.png)
 
 <!-- 必选，如何部署项目的指导 -->
 
@@ -38,6 +38,7 @@ cd gradient-debias-llama3.1-test
 python debias-model/select-word-gender.py
 ```
 2. Bias Neuron Attribution
+
 FBA
 ```bash
 python entropy/debias-gender.py
@@ -47,6 +48,7 @@ BBA
 python anti-debias/debias-gender.py
 ```
 3. Downsteam Eval (StereoSet)
+
 FBA
 ```bash
 python test/QA-entropy/gender-faig-grid.py
